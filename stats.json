@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---exercise-podjem-nog-v-upore": [
-      "path---exercise-podjem-nog-v-upore-82378eface32905608eb.js",
-      "path---exercise-podjem-nog-v-upore-82378eface32905608eb.js.map"
+      "path---exercise-podjem-nog-v-upore-38d71dfdf5ce53d92037.js",
+      "path---exercise-podjem-nog-v-upore-38d71dfdf5ce53d92037.js.map"
     ],
     "component---src-pages-inventory-trx-jsx": [
       "component---src-pages-inventory-trx-jsx-8eda3576be5e2a38e085.js",
@@ -12,65 +12,69 @@
       "component---src-pages-bodypart-triceps-jsx-4eadbe99c05da09d58b5.js",
       "component---src-pages-bodypart-triceps-jsx-4eadbe99c05da09d58b5.js.map"
     ],
+    "path---exercise-jim-ganteley-leja-na-naklonnoj-skamie": [
+      "path---exercise-jim-ganteley-leja-na-naklonnoj-skamie-cb3cdd81c55cd83d5fc8.js",
+      "path---exercise-jim-ganteley-leja-na-naklonnoj-skamie-cb3cdd81c55cd83d5fc8.js.map"
+    ],
     "path---exercise-planka": [
-      "path---exercise-planka-150ccd8e470fd2215d6a.js",
-      "path---exercise-planka-150ccd8e470fd2215d6a.js.map"
+      "path---exercise-planka-489e0b3409e253423308.js",
+      "path---exercise-planka-489e0b3409e253423308.js.map"
     ],
     "path---exercise-francuzskii-jim-s-ganteleami-sidya": [
-      "path---exercise-francuzskii-jim-s-ganteleami-sidya-814a8f5fd38c2b5d9dff.js",
-      "path---exercise-francuzskii-jim-s-ganteleami-sidya-814a8f5fd38c2b5d9dff.js.map"
+      "path---exercise-francuzskii-jim-s-ganteleami-sidya-3f3e00faa121bfe895cd.js",
+      "path---exercise-francuzskii-jim-s-ganteleami-sidya-3f3e00faa121bfe895cd.js.map"
     ],
     "component---src-pages-type-isolated-jsx": [
       "component---src-pages-type-isolated-jsx-59c205b93851f004d386.js",
       "component---src-pages-type-isolated-jsx-59c205b93851f004d386.js.map"
     ],
     "path---bodypart-cardio": [
-      "path---bodypart-cardio-508efce111a279e905ae.js",
-      "path---bodypart-cardio-508efce111a279e905ae.js.map"
+      "path---bodypart-cardio-acf7282fadd623b56cdb.js",
+      "path---bodypart-cardio-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-concentrirovannie-sgibania-na-biceps": [
-      "path---exercise-concentrirovannie-sgibania-na-biceps-bc678e2f29403547b8d6.js",
-      "path---exercise-concentrirovannie-sgibania-na-biceps-bc678e2f29403547b8d6.js.map"
+      "path---exercise-concentrirovannie-sgibania-na-biceps-2d6d2099577bcc811c92.js",
+      "path---exercise-concentrirovannie-sgibania-na-biceps-2d6d2099577bcc811c92.js.map"
     ],
     "path---type-isolated": [
-      "path---type-isolated-aea90cbe3aa658625f3e.js",
-      "path---type-isolated-aea90cbe3aa658625f3e.js.map"
+      "path---type-isolated-348d3108490ec8440ded.js",
+      "path---type-isolated-348d3108490ec8440ded.js.map"
     ],
     "path---exercise-tyaga-verhnego-bloka": [
-      "path---exercise-tyaga-verhnego-bloka-dc43153437803479fc32.js",
-      "path---exercise-tyaga-verhnego-bloka-dc43153437803479fc32.js.map"
+      "path---exercise-tyaga-verhnego-bloka-b0d0268d97c225da0ecd.js",
+      "path---exercise-tyaga-verhnego-bloka-b0d0268d97c225da0ecd.js.map"
     ],
     "path---exercise-svedenie-v-krossovere": [
-      "path---exercise-svedenie-v-krossovere-67109f6fd653cd69b082.js",
-      "path---exercise-svedenie-v-krossovere-67109f6fd653cd69b082.js.map"
+      "path---exercise-svedenie-v-krossovere-a4d43d93e641d45da717.js",
+      "path---exercise-svedenie-v-krossovere-a4d43d93e641d45da717.js.map"
     ],
     "path---exercise-sportivnaja-hodba": [
-      "path---exercise-sportivnaja-hodba-7de560a08754fd64c95c.js",
-      "path---exercise-sportivnaja-hodba-7de560a08754fd64c95c.js.map"
+      "path---exercise-sportivnaja-hodba-38bfdf897f962af2087d.js",
+      "path---exercise-sportivnaja-hodba-38bfdf897f962af2087d.js.map"
     ],
     "path---exercise-otvedenie-ruk-vniz-vverh-na-petlyah": [
-      "path---exercise-otvedenie-ruk-vniz-vverh-na-petlyah-5687bdc6deac410dcbdc.js",
-      "path---exercise-otvedenie-ruk-vniz-vverh-na-petlyah-5687bdc6deac410dcbdc.js.map"
+      "path---exercise-otvedenie-ruk-vniz-vverh-na-petlyah-fe2880ee00b940ef0b19.js",
+      "path---exercise-otvedenie-ruk-vniz-vverh-na-petlyah-fe2880ee00b940ef0b19.js.map"
     ],
     "path---exercise-otjimania-odnoi-rukoi-v-petlyah": [
-      "path---exercise-otjimania-odnoi-rukoi-v-petlyah-20599fdce68aefd01f4f.js",
-      "path---exercise-otjimania-odnoi-rukoi-v-petlyah-20599fdce68aefd01f4f.js.map"
+      "path---exercise-otjimania-odnoi-rukoi-v-petlyah-d65f24dd739deb372e44.js",
+      "path---exercise-otjimania-odnoi-rukoi-v-petlyah-d65f24dd739deb372e44.js.map"
     ],
     "path---exercise-francuzskii-jim-leja": [
-      "path---exercise-francuzskii-jim-leja-ff3e90efd26af14e0d38.js",
-      "path---exercise-francuzskii-jim-leja-ff3e90efd26af14e0d38.js.map"
+      "path---exercise-francuzskii-jim-leja-add582d3e7eb7aa8ffbe.js",
+      "path---exercise-francuzskii-jim-leja-add582d3e7eb7aa8ffbe.js.map"
     ],
     "path---exercise-jim-shtangi-iz-za-golovy-sidia": [
-      "path---exercise-jim-shtangi-iz-za-golovy-sidia-68f0fa073be8317f79f9.js",
-      "path---exercise-jim-shtangi-iz-za-golovy-sidia-68f0fa073be8317f79f9.js.map"
+      "path---exercise-jim-shtangi-iz-za-golovy-sidia-c38551eae364e68e8e28.js",
+      "path---exercise-jim-shtangi-iz-za-golovy-sidia-c38551eae364e68e8e28.js.map"
     ],
     "path---exercise-razgibanie-ruki-v-naklone": [
-      "path---exercise-razgibanie-ruki-v-naklone-548ae05f6001dd18ebbf.js",
-      "path---exercise-razgibanie-ruki-v-naklone-548ae05f6001dd18ebbf.js.map"
+      "path---exercise-razgibanie-ruki-v-naklone-71a57573feaff4ec45f3.js",
+      "path---exercise-razgibanie-ruki-v-naklone-71a57573feaff4ec45f3.js.map"
     ],
     "path---bodypart-biceps": [
-      "path---bodypart-biceps-508efce111a279e905ae.js",
-      "path---bodypart-biceps-508efce111a279e905ae.js.map"
+      "path---bodypart-biceps-acf7282fadd623b56cdb.js",
+      "path---bodypart-biceps-acf7282fadd623b56cdb.js.map"
     ],
     "component---src-pages-type-base-jsx": [
       "component---src-pages-type-base-jsx-a2e39bbe83fb5b7dd815.js",
@@ -93,16 +97,16 @@
       "component---src-pages-bmi-jsx-49fddad14c3a13918ada.js.map"
     ],
     "path---inventory-smit": [
-      "path---inventory-smit-508efce111a279e905ae.js",
-      "path---inventory-smit-508efce111a279e905ae.js.map"
+      "path---inventory-smit-acf7282fadd623b56cdb.js",
+      "path---inventory-smit-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-stanovaia-tyaga": [
-      "path---exercise-stanovaia-tyaga-bedd49123f1d93d694c8.js",
-      "path---exercise-stanovaia-tyaga-bedd49123f1d93d694c8.js.map"
+      "path---exercise-stanovaia-tyaga-a2ca6cb6d1f809364ef6.js",
+      "path---exercise-stanovaia-tyaga-a2ca6cb6d1f809364ef6.js.map"
     ],
     "path---exercise-obratnie-scrucivania": [
-      "path---exercise-obratnie-scrucivania-2eadd086caa01439ab6c.js",
-      "path---exercise-obratnie-scrucivania-2eadd086caa01439ab6c.js.map"
+      "path---exercise-obratnie-scrucivania-ee46e6758a55ea2a83dd.js",
+      "path---exercise-obratnie-scrucivania-ee46e6758a55ea2a83dd.js.map"
     ],
     "component---src-pages-stats-efficiency-jsx": [
       "component---src-pages-stats-efficiency-jsx-94f34e19e40ac661b851.js",
@@ -117,16 +121,16 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---exercise-jim-shtangi-leja": [
-      "path---exercise-jim-shtangi-leja-e818b5c2d10f5f8fd112.js",
-      "path---exercise-jim-shtangi-leja-e818b5c2d10f5f8fd112.js.map"
+      "path---exercise-jim-shtangi-leja-35b59c31605d2fdde027.js",
+      "path---exercise-jim-shtangi-leja-35b59c31605d2fdde027.js.map"
     ],
     "path---exercise-tyaga-gorizontalnogo-bloka": [
-      "path---exercise-tyaga-gorizontalnogo-bloka-8acd0710dbb38ed0621d.js",
-      "path---exercise-tyaga-gorizontalnogo-bloka-8acd0710dbb38ed0621d.js.map"
+      "path---exercise-tyaga-gorizontalnogo-bloka-8c2940f7bfe3b16884e7.js",
+      "path---exercise-tyaga-gorizontalnogo-bloka-8c2940f7bfe3b16884e7.js.map"
     ],
     "path---exercise-pulover-leja-s-gantelei": [
-      "path---exercise-pulover-leja-s-gantelei-4a6e11376cd55af62ad1.js",
-      "path---exercise-pulover-leja-s-gantelei-4a6e11376cd55af62ad1.js.map"
+      "path---exercise-pulover-leja-s-gantelei-f0f76e93add069cec2ca.js",
+      "path---exercise-pulover-leja-s-gantelei-f0f76e93add069cec2ca.js.map"
     ],
     "component---src-pages-inventory-stange-jsx": [
       "component---src-pages-inventory-stange-jsx-e415e776868ef8c6944e.js",
@@ -137,120 +141,120 @@
       "component---src-layouts-index-js-5896ab4b04c6319d4a2a.js.map"
     ],
     "path---exercise-tyaga-gantelei-leja-na-skamje-na-jivote": [
-      "path---exercise-tyaga-gantelei-leja-na-skamje-na-jivote-8749d2c23f3c0e576967.js",
-      "path---exercise-tyaga-gantelei-leja-na-skamje-na-jivote-8749d2c23f3c0e576967.js.map"
+      "path---exercise-tyaga-gantelei-leja-na-skamje-na-jivote-81f65f146d703fdcfeef.js",
+      "path---exercise-tyaga-gantelei-leja-na-skamje-na-jivote-81f65f146d703fdcfeef.js.map"
     ],
     "path---exercise-podjem-shtangi-na-biceps-na-skamje-skotta": [
-      "path---exercise-podjem-shtangi-na-biceps-na-skamje-skotta-e0dbe01987b4c2a6272e.js",
-      "path---exercise-podjem-shtangi-na-biceps-na-skamje-skotta-e0dbe01987b4c2a6272e.js.map"
+      "path---exercise-podjem-shtangi-na-biceps-na-skamje-skotta-9089fcdd27204f82740d.js",
+      "path---exercise-podjem-shtangi-na-biceps-na-skamje-skotta-9089fcdd27204f82740d.js.map"
     ],
     "path---exercise-otjimania-na-brusiah": [
-      "path---exercise-otjimania-na-brusiah-4ff7fe49ad3cc3e341a2.js",
-      "path---exercise-otjimania-na-brusiah-4ff7fe49ad3cc3e341a2.js.map"
+      "path---exercise-otjimania-na-brusiah-9fb4d1becc8f2af942aa.js",
+      "path---exercise-otjimania-na-brusiah-9fb4d1becc8f2af942aa.js.map"
     ],
     "path---inventory-ez-stange": [
-      "path---inventory-ez-stange-508efce111a279e905ae.js",
-      "path---inventory-ez-stange-508efce111a279e905ae.js.map"
+      "path---inventory-ez-stange-acf7282fadd623b56cdb.js",
+      "path---inventory-ez-stange-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-podjem-gantelei-na-biceps-stoya-hvatom-molot": [
-      "path---exercise-podjem-gantelei-na-biceps-stoya-hvatom-molot-65e4cae8ef9aecb05bd3.js",
-      "path---exercise-podjem-gantelei-na-biceps-stoya-hvatom-molot-65e4cae8ef9aecb05bd3.js.map"
+      "path---exercise-podjem-gantelei-na-biceps-stoya-hvatom-molot-7f7d296298fe38ed5e89.js",
+      "path---exercise-podjem-gantelei-na-biceps-stoya-hvatom-molot-7f7d296298fe38ed5e89.js.map"
     ],
     "path---exercise-skrucivania-na-naklonnoi-skamie": [
-      "path---exercise-skrucivania-na-naklonnoi-skamie-f0a35003dcddc6c45617.js",
-      "path---exercise-skrucivania-na-naklonnoi-skamie-f0a35003dcddc6c45617.js.map"
+      "path---exercise-skrucivania-na-naklonnoi-skamie-ee1186500f63592d4550.js",
+      "path---exercise-skrucivania-na-naklonnoi-skamie-ee1186500f63592d4550.js.map"
     ],
     "path---stats-efficiency": [
-      "path---stats-efficiency-aea90cbe3aa658625f3e.js",
-      "path---stats-efficiency-aea90cbe3aa658625f3e.js.map"
+      "path---stats-efficiency-348d3108490ec8440ded.js",
+      "path---stats-efficiency-348d3108490ec8440ded.js.map"
     ],
     "path---exercise-beg-na-begovoj-dorojke": [
-      "path---exercise-beg-na-begovoj-dorojke-ea8fa1dfff87fd76f960.js",
-      "path---exercise-beg-na-begovoj-dorojke-ea8fa1dfff87fd76f960.js.map"
+      "path---exercise-beg-na-begovoj-dorojke-46c45738e093fb5dd78a.js",
+      "path---exercise-beg-na-begovoj-dorojke-46c45738e093fb5dd78a.js.map"
     ],
     "path---exercise-tyaga-dumbbells-v-naklone": [
-      "path---exercise-tyaga-dumbbells-v-naklone-3c3b8f9d23026c09a35c.js",
-      "path---exercise-tyaga-dumbbells-v-naklone-3c3b8f9d23026c09a35c.js.map"
+      "path---exercise-tyaga-dumbbells-v-naklone-5e53a4d813232138ac30.js",
+      "path---exercise-tyaga-dumbbells-v-naklone-5e53a4d813232138ac30.js.map"
     ],
     "path---exercise-razvedenie-ruk-s-gantelyami-leja": [
-      "path---exercise-razvedenie-ruk-s-gantelyami-leja-2b5e0376a6eb2bfef37e.js",
-      "path---exercise-razvedenie-ruk-s-gantelyami-leja-2b5e0376a6eb2bfef37e.js.map"
+      "path---exercise-razvedenie-ruk-s-gantelyami-leja-d630ec4be207653c270a.js",
+      "path---exercise-razvedenie-ruk-s-gantelyami-leja-d630ec4be207653c270a.js.map"
     ],
     "path---index": [
-      "path---index-8c71df5f732d1762fadd.js",
-      "path---index-8c71df5f732d1762fadd.js.map"
+      "path---index-f69a89748cbb0b520664.js",
+      "path---index-f69a89748cbb0b520664.js.map"
     ],
     "path---exercise-razvedenie-ruk-s-petlyami": [
-      "path---exercise-razvedenie-ruk-s-petlyami-484715cc5a514a54447a.js",
-      "path---exercise-razvedenie-ruk-s-petlyami-484715cc5a514a54447a.js.map"
+      "path---exercise-razvedenie-ruk-s-petlyami-ba187078ea0aeba143ad.js",
+      "path---exercise-razvedenie-ruk-s-petlyami-ba187078ea0aeba143ad.js.map"
     ],
     "path---exercise-podtyagivania-shirokim-hvatom": [
-      "path---exercise-podtyagivania-shirokim-hvatom-6090b2325e40c4fdaeb5.js",
-      "path---exercise-podtyagivania-shirokim-hvatom-6090b2325e40c4fdaeb5.js.map"
+      "path---exercise-podtyagivania-shirokim-hvatom-a2b6235dac573748704b.js",
+      "path---exercise-podtyagivania-shirokim-hvatom-a2b6235dac573748704b.js.map"
     ],
     "component---src-pages-inventory-dumbbells-jsx": [
       "component---src-pages-inventory-dumbbells-jsx-7eef61258f8016a6a348.js",
       "component---src-pages-inventory-dumbbells-jsx-7eef61258f8016a6a348.js.map"
     ],
     "path---exercise-svedenie-ruk-v-petlyah": [
-      "path---exercise-svedenie-ruk-v-petlyah-d010aa0ca4e3dd716048.js",
-      "path---exercise-svedenie-ruk-v-petlyah-d010aa0ca4e3dd716048.js.map"
+      "path---exercise-svedenie-ruk-v-petlyah-f4ad5cc946bfdc8716d4.js",
+      "path---exercise-svedenie-ruk-v-petlyah-f4ad5cc946bfdc8716d4.js.map"
     ],
     "component---src-pages-bodypart-chest-jsx": [
       "component---src-pages-bodypart-chest-jsx-f51b15d18d4f20d3620f.js",
       "component---src-pages-bodypart-chest-jsx-f51b15d18d4f20d3620f.js.map"
     ],
     "path---exercise-otjimania-v-petlyah": [
-      "path---exercise-otjimania-v-petlyah-a3c9f32abeda75f9b341.js",
-      "path---exercise-otjimania-v-petlyah-a3c9f32abeda75f9b341.js.map"
+      "path---exercise-otjimania-v-petlyah-0cf6087cfd7fa6660a5a.js",
+      "path---exercise-otjimania-v-petlyah-0cf6087cfd7fa6660a5a.js.map"
     ],
     "path---exercise-jim-v-rychajnom-trenajere": [
-      "path---exercise-jim-v-rychajnom-trenajere-be49dedd893437f87b06.js",
-      "path---exercise-jim-v-rychajnom-trenajere-be49dedd893437f87b06.js.map"
+      "path---exercise-jim-v-rychajnom-trenajere-e067102b5a8e7002418c.js",
+      "path---exercise-jim-v-rychajnom-trenajere-e067102b5a8e7002418c.js.map"
     ],
     "path---exercise-jim-ganteley-leja": [
-      "path---exercise-jim-ganteley-leja-5cbf0c4380406835a405.js",
-      "path---exercise-jim-ganteley-leja-5cbf0c4380406835a405.js.map"
+      "path---exercise-jim-ganteley-leja-321acd4e458cd5701dec.js",
+      "path---exercise-jim-ganteley-leja-321acd4e458cd5701dec.js.map"
     ],
     "path---exercise-jim-shtangi-golovoi-vniz": [
-      "path---exercise-jim-shtangi-golovoi-vniz-942be3d144192ec66d38.js",
-      "path---exercise-jim-shtangi-golovoi-vniz-942be3d144192ec66d38.js.map"
+      "path---exercise-jim-shtangi-golovoi-vniz-c558b0f8b22391d02c74.js",
+      "path---exercise-jim-shtangi-golovoi-vniz-c558b0f8b22391d02c74.js.map"
     ],
     "path---exercise-giperextenzia": [
-      "path---exercise-giperextenzia-daf0f0051cd59181a8a6.js",
-      "path---exercise-giperextenzia-daf0f0051cd59181a8a6.js.map"
+      "path---exercise-giperextenzia-fedbb2e31955ea24837d.js",
+      "path---exercise-giperextenzia-fedbb2e31955ea24837d.js.map"
     ],
     "path---exercise-francuzskii-jim-stoia-so-shtangoi": [
-      "path---exercise-francuzskii-jim-stoia-so-shtangoi-d3a4e74dedbafdce8fda.js",
-      "path---exercise-francuzskii-jim-stoia-so-shtangoi-d3a4e74dedbafdce8fda.js.map"
+      "path---exercise-francuzskii-jim-stoia-so-shtangoi-2ba905ff0a418f6cd3c6.js",
+      "path---exercise-francuzskii-jim-stoia-so-shtangoi-2ba905ff0a418f6cd3c6.js.map"
     ],
     "path---exercise-podjem-gantelei-na-biceps-stoya": [
-      "path---exercise-podjem-gantelei-na-biceps-stoya-d56b50874ea143c41535.js",
-      "path---exercise-podjem-gantelei-na-biceps-stoya-d56b50874ea143c41535.js.map"
+      "path---exercise-podjem-gantelei-na-biceps-stoya-b6fe50df81c9dbb06094.js",
+      "path---exercise-podjem-gantelei-na-biceps-stoya-b6fe50df81c9dbb06094.js.map"
     ],
     "path---exercise-podjem-gantelei-na-biceps-sidya": [
-      "path---exercise-podjem-gantelei-na-biceps-sidya-0a46eaca33ee6e844b2b.js",
-      "path---exercise-podjem-gantelei-na-biceps-sidya-0a46eaca33ee6e844b2b.js.map"
+      "path---exercise-podjem-gantelei-na-biceps-sidya-601a07ab8c39c56e2a15.js",
+      "path---exercise-podjem-gantelei-na-biceps-sidya-601a07ab8c39c56e2a15.js.map"
     ],
     "commons": [
       "commons-934416311182c621cdb5.js",
       "commons-934416311182c621cdb5.js.map"
     ],
     "path---exercise-naklony-s-gantelei-v-storonu-stoia": [
-      "path---exercise-naklony-s-gantelei-v-storonu-stoia-19bd58cbb8e976da1b0a.js",
-      "path---exercise-naklony-s-gantelei-v-storonu-stoia-19bd58cbb8e976da1b0a.js.map"
+      "path---exercise-naklony-s-gantelei-v-storonu-stoia-02ddb7f3fd8cbf43318d.js",
+      "path---exercise-naklony-s-gantelei-v-storonu-stoia-02ddb7f3fd8cbf43318d.js.map"
     ],
     "path---exercise-razgibania-ruk-na-bloke-stoya": [
-      "path---exercise-razgibania-ruk-na-bloke-stoya-29c78b9ae1e70f4336b0.js",
-      "path---exercise-razgibania-ruk-na-bloke-stoya-29c78b9ae1e70f4336b0.js.map"
+      "path---exercise-razgibania-ruk-na-bloke-stoya-abad93f2bff115ddef21.js",
+      "path---exercise-razgibania-ruk-na-bloke-stoya-abad93f2bff115ddef21.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---exercise-sgibania-ruk-u-verhnih-blokov-v-crossovere": [
-      "path---exercise-sgibania-ruk-u-verhnih-blokov-v-crossovere-2ab1d386473e603ad7f2.js",
-      "path---exercise-sgibania-ruk-u-verhnih-blokov-v-crossovere-2ab1d386473e603ad7f2.js.map"
+      "path---exercise-sgibania-ruk-u-verhnih-blokov-v-crossovere-eaf231b7f54ca0c87a1c.js",
+      "path---exercise-sgibania-ruk-u-verhnih-blokov-v-crossovere-eaf231b7f54ca0c87a1c.js.map"
     ],
     "component---src-pages-bodypart-back-jsx": [
       "component---src-pages-bodypart-back-jsx-8eaba2125bc928cc763f.js",
@@ -261,36 +265,36 @@
       "component---src-pages-404-jsx-2cbc0211638aca10cda1.js.map"
     ],
     "path---type-base": [
-      "path---type-base-aea90cbe3aa658625f3e.js",
-      "path---type-base-aea90cbe3aa658625f3e.js.map"
+      "path---type-base-348d3108490ec8440ded.js",
+      "path---type-base-348d3108490ec8440ded.js.map"
     ],
     "path---exercise-tyaga-shtangi-v-naklone": [
-      "path---exercise-tyaga-shtangi-v-naklone-42e0f326d6f8d54dde4d.js",
-      "path---exercise-tyaga-shtangi-v-naklone-42e0f326d6f8d54dde4d.js.map"
+      "path---exercise-tyaga-shtangi-v-naklone-2e64b049e6b0b6811db9.js",
+      "path---exercise-tyaga-shtangi-v-naklone-2e64b049e6b0b6811db9.js.map"
     ],
     "path---inventory-own-weight": [
-      "path---inventory-own-weight-508efce111a279e905ae.js",
-      "path---inventory-own-weight-508efce111a279e905ae.js.map"
+      "path---inventory-own-weight-acf7282fadd623b56cdb.js",
+      "path---inventory-own-weight-acf7282fadd623b56cdb.js.map"
     ],
     "path---bodypart-triceps": [
-      "path---bodypart-triceps-508efce111a279e905ae.js",
-      "path---bodypart-triceps-508efce111a279e905ae.js.map"
+      "path---bodypart-triceps-acf7282fadd623b56cdb.js",
+      "path---bodypart-triceps-acf7282fadd623b56cdb.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---bodypart-abs": [
-      "path---bodypart-abs-508efce111a279e905ae.js",
-      "path---bodypart-abs-508efce111a279e905ae.js.map"
+      "path---bodypart-abs-acf7282fadd623b56cdb.js",
+      "path---bodypart-abs-acf7282fadd623b56cdb.js.map"
     ],
     "component---src-pages-bodypart-cardio-jsx": [
       "component---src-pages-bodypart-cardio-jsx-9757abaeb58b041d759f.js",
       "component---src-pages-bodypart-cardio-jsx-9757abaeb58b041d759f.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-57c4d2eedac90975962d.js",
-      "component---src-pages-index-jsx-57c4d2eedac90975962d.js.map"
+      "component---src-pages-index-jsx-77542667ac83656f8294.js",
+      "component---src-pages-index-jsx-77542667ac83656f8294.js.map"
     ],
     "component---src-pages-inventory-scott-jsx": [
       "component---src-pages-inventory-scott-jsx-1e6228c5b24b67a6fd1b.js",
@@ -301,28 +305,28 @@
       "component---src-components-exercise-jsx-038bb2a116b8c195468c.js.map"
     ],
     "path---inventory-trx": [
-      "path---inventory-trx-508efce111a279e905ae.js",
-      "path---inventory-trx-508efce111a279e905ae.js.map"
+      "path---inventory-trx-acf7282fadd623b56cdb.js",
+      "path---inventory-trx-acf7282fadd623b56cdb.js.map"
     ],
     "component---src-pages-inventory-smit-jsx": [
       "component---src-pages-inventory-smit-jsx-c04820ff8ddae4379995.js",
       "component---src-pages-inventory-smit-jsx-c04820ff8ddae4379995.js.map"
     ],
     "path---stats-injury": [
-      "path---stats-injury-aea90cbe3aa658625f3e.js",
-      "path---stats-injury-aea90cbe3aa658625f3e.js.map"
+      "path---stats-injury-348d3108490ec8440ded.js",
+      "path---stats-injury-348d3108490ec8440ded.js.map"
     ],
     "app": [
-      "app-2177c76432db260a7fc1.js",
-      "app-2177c76432db260a7fc1.js.map"
+      "app-63a17161a2eb8e6be7f3.js",
+      "app-63a17161a2eb8e6be7f3.js.map"
     ],
     "path---exercise-skrucivania-leja": [
-      "path---exercise-skrucivania-leja-355357a53bee34ebf48e.js",
-      "path---exercise-skrucivania-leja-355357a53bee34ebf48e.js.map"
+      "path---exercise-skrucivania-leja-4906804d3e3ad3016d3e.js",
+      "path---exercise-skrucivania-leja-4906804d3e3ad3016d3e.js.map"
     ],
     "path---exercise-razvodka-na-petlyah-pod-uglom": [
-      "path---exercise-razvodka-na-petlyah-pod-uglom-b672acb9854805f63baa.js",
-      "path---exercise-razvodka-na-petlyah-pod-uglom-b672acb9854805f63baa.js.map"
+      "path---exercise-razvodka-na-petlyah-pod-uglom-d72981a15fc702cbd2af.js",
+      "path---exercise-razvodka-na-petlyah-pod-uglom-d72981a15fc702cbd2af.js.map"
     ],
     "component---src-pages-inventory-ez-stange-jsx": [
       "component---src-pages-inventory-ez-stange-jsx-56b91456659310be3efe.js",
@@ -333,36 +337,36 @@
       "path---exercise-jim-shtangi-uzkim-hvatom-c6211f764ecb3a31b760.js.map"
     ],
     "path---exercise-obratnie-otjimania": [
-      "path---exercise-obratnie-otjimania-241afc4130506b06f358.js",
-      "path---exercise-obratnie-otjimania-241afc4130506b06f358.js.map"
+      "path---exercise-obratnie-otjimania-bfda5809e4ffabc56166.js",
+      "path---exercise-obratnie-otjimania-bfda5809e4ffabc56166.js.map"
     ],
     "path---bodypart-chest": [
-      "path---bodypart-chest-508efce111a279e905ae.js",
-      "path---bodypart-chest-508efce111a279e905ae.js.map"
+      "path---bodypart-chest-acf7282fadd623b56cdb.js",
+      "path---bodypart-chest-acf7282fadd623b56cdb.js.map"
     ],
     "path---bodypart-back": [
-      "path---bodypart-back-508efce111a279e905ae.js",
-      "path---bodypart-back-508efce111a279e905ae.js.map"
+      "path---bodypart-back-acf7282fadd623b56cdb.js",
+      "path---bodypart-back-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-tyaga-verhnego-bloka-za-golovu": [
-      "path---exercise-tyaga-verhnego-bloka-za-golovu-0a6c5ac524c53822ee05.js",
-      "path---exercise-tyaga-verhnego-bloka-za-golovu-0a6c5ac524c53822ee05.js.map"
+      "path---exercise-tyaga-verhnego-bloka-za-golovu-a6d3f1012b466b78cae0.js",
+      "path---exercise-tyaga-verhnego-bloka-za-golovu-a6d3f1012b466b78cae0.js.map"
     ],
     "component---src-pages-bodypart-abs-jsx": [
       "component---src-pages-bodypart-abs-jsx-2c15374f97cf7fcf3e6b.js",
       "component---src-pages-bodypart-abs-jsx-2c15374f97cf7fcf3e6b.js.map"
     ],
     "path---exercise-podjem-shtangi-na-biceps-stoya": [
-      "path---exercise-podjem-shtangi-na-biceps-stoya-ee61b5792c2a513df2e4.js",
-      "path---exercise-podjem-shtangi-na-biceps-stoya-ee61b5792c2a513df2e4.js.map"
+      "path---exercise-podjem-shtangi-na-biceps-stoya-2b7b59b5ca8246567236.js",
+      "path---exercise-podjem-shtangi-na-biceps-stoya-2b7b59b5ca8246567236.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---exercise-jim-gantelei-sidya": [
-      "path---exercise-jim-gantelei-sidya-31e2185a557259a93460.js",
-      "path---exercise-jim-gantelei-sidya-31e2185a557259a93460.js.map"
+      "path---exercise-jim-gantelei-sidya-c2b0be26676566203f35.js",
+      "path---exercise-jim-gantelei-sidya-c2b0be26676566203f35.js.map"
     ],
     "path---bmi": [
       "path---bmi-a0e39f21c11f6a62c5ab.js",
@@ -373,48 +377,48 @@
       "component---src-pages-bodypart-shoulders-jsx-fc210c726984d7cf55a7.js.map"
     ],
     "path---exercise-jim-shtangi-iz-za-golovy-sidia-v-smite": [
-      "path---exercise-jim-shtangi-iz-za-golovy-sidia-v-smite-8796b8272b6288382457.js",
-      "path---exercise-jim-shtangi-iz-za-golovy-sidia-v-smite-8796b8272b6288382457.js.map"
+      "path---exercise-jim-shtangi-iz-za-golovy-sidia-v-smite-926ea4b3e75600bd7263.js",
+      "path---exercise-jim-shtangi-iz-za-golovy-sidia-v-smite-926ea4b3e75600bd7263.js.map"
     ],
     "path---exercise-sgibania-ruk-na-nijnem-bloke-v-crossovere": [
-      "path---exercise-sgibania-ruk-na-nijnem-bloke-v-crossovere-e8958a6e26172aa32e45.js",
-      "path---exercise-sgibania-ruk-na-nijnem-bloke-v-crossovere-e8958a6e26172aa32e45.js.map"
+      "path---exercise-sgibania-ruk-na-nijnem-bloke-v-crossovere-a81b8e0d63e7485a2f31.js",
+      "path---exercise-sgibania-ruk-na-nijnem-bloke-v-crossovere-a81b8e0d63e7485a2f31.js.map"
     ],
     "path---inventory-dumbbells": [
-      "path---inventory-dumbbells-508efce111a279e905ae.js",
-      "path---inventory-dumbbells-508efce111a279e905ae.js.map"
+      "path---inventory-dumbbells-acf7282fadd623b56cdb.js",
+      "path---inventory-dumbbells-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-tyaga-t-grifa-v-naklone": [
-      "path---exercise-tyaga-t-grifa-v-naklone-80f7244010fc3a8c895d.js",
-      "path---exercise-tyaga-t-grifa-v-naklone-80f7244010fc3a8c895d.js.map"
+      "path---exercise-tyaga-t-grifa-v-naklone-192d09662d4484a8cfcf.js",
+      "path---exercise-tyaga-t-grifa-v-naklone-192d09662d4484a8cfcf.js.map"
     ],
     "path---exercise-svedenie-ruk-v-trenajere-babochka": [
-      "path---exercise-svedenie-ruk-v-trenajere-babochka-a918afb7f59b13640230.js",
-      "path---exercise-svedenie-ruk-v-trenajere-babochka-a918afb7f59b13640230.js.map"
+      "path---exercise-svedenie-ruk-v-trenajere-babochka-ba3d9c996a3f87407d58.js",
+      "path---exercise-svedenie-ruk-v-trenajere-babochka-ba3d9c996a3f87407d58.js.map"
     ],
     "path---exercise-podjem-nog-v-vise": [
-      "path---exercise-podjem-nog-v-vise-43eb7066b96483e8406d.js",
-      "path---exercise-podjem-nog-v-vise-43eb7066b96483e8406d.js.map"
+      "path---exercise-podjem-nog-v-vise-9b7634b54389f3101515.js",
+      "path---exercise-podjem-nog-v-vise-9b7634b54389f3101515.js.map"
     ],
     "path---inventory-stange": [
-      "path---inventory-stange-508efce111a279e905ae.js",
-      "path---inventory-stange-508efce111a279e905ae.js.map"
+      "path---inventory-stange-acf7282fadd623b56cdb.js",
+      "path---inventory-stange-acf7282fadd623b56cdb.js.map"
     ],
     "path---inventory-scott": [
-      "path---inventory-scott-508efce111a279e905ae.js",
-      "path---inventory-scott-508efce111a279e905ae.js.map"
+      "path---inventory-scott-acf7282fadd623b56cdb.js",
+      "path---inventory-scott-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-jim-shtangi-na-naknonnoi-skamje": [
-      "path---exercise-jim-shtangi-na-naknonnoi-skamje-ac2e9de0370da2a3ed29.js",
-      "path---exercise-jim-shtangi-na-naknonnoi-skamje-ac2e9de0370da2a3ed29.js.map"
+      "path---exercise-jim-shtangi-na-naknonnoi-skamje-888993f327c43f775e54.js",
+      "path---exercise-jim-shtangi-na-naknonnoi-skamje-888993f327c43f775e54.js.map"
     ],
     "path---bodypart-shoulders": [
-      "path---bodypart-shoulders-508efce111a279e905ae.js",
-      "path---bodypart-shoulders-508efce111a279e905ae.js.map"
+      "path---bodypart-shoulders-acf7282fadd623b56cdb.js",
+      "path---bodypart-shoulders-acf7282fadd623b56cdb.js.map"
     ],
     "path---exercise-otjimania-ot-pola": [
-      "path---exercise-otjimania-ot-pola-d72c9e5c9f6d0662fb3e.js",
-      "path---exercise-otjimania-ot-pola-d72c9e5c9f6d0662fb3e.js.map"
+      "path---exercise-otjimania-ot-pola-706dfe7cab66f9beb7c0.js",
+      "path---exercise-otjimania-ot-pola-706dfe7cab66f9beb7c0.js.map"
     ]
   }
 }
